@@ -8,7 +8,7 @@ Please follow the running requence
 
 ```
 $ gcc -Wall main.c[ENTER]
-$ ./a.out words[ENTER]
+$ ./a.out words.txt[ENTER]
 ...
 $ rm ./a.out[ENTER]
 ```
